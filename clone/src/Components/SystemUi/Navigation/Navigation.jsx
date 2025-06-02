@@ -123,7 +123,7 @@ export default function Navigation() {
                               alt="category"
                             />
                           </div>
-                          <div id="light">
+                          <div id="dark">
                             <Image
                               src="/icons/categoryActive.svg"
                               width={20}
